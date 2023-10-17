@@ -1,0 +1,155 @@
+
+
+/* Style the image button */
+#image-button {
+  cursor: pointer; /* Change cursor to pointer on hover */
+  /* Add other styling properties as needed */
+}
+.button-container {
+  display: inline-block; /* Ensures the container only takes up as much space as the image */
+  
+}
+.image-button {
+  display: block;
+  text-decoration: none; /* Remove underline for links */
+  background-color:linear-gradient(white,#D3D8E8); /* Background color of the button */
+  color: #fff; /* Text color */
+  padding: 10px 20px;
+  transition: background-color 0.3s ease; /* Add a smooth transition effect */
+  }
+  .image-button img {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    margin-left: 58px;
+    padding-top: 170px;
+    
+  }
+  .image-button:hover {
+    background-color:#fff;/* Change the background color on hover */
+  }
+  .button-container1{
+    display:inline-block
+  }
+  .button-container2{
+    display: inline-block;
+  }
+  .button-container3{
+    display: inline-block;
+  }
+  .button-container6{
+    display: inline-block;
+  }
+  .button-container5{
+    display: inline-block;
+  }
+  .button-container7{
+    display: inline-block;
+  }
+
+  .image-button-tutorial img{
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    margin-left: 60px;
+    padding-top: 31px;
+  }
+  .image-button-tutorial {
+    display: block;
+    text-decoration: none; /* Remove underline for links */
+    background-color:linear-gradient(white,#D3D8E8); /* Background color of the button */
+    color: #fff; /* Text color */
+    padding: 10px 20px;
+    transition: background-color 0.3s ease; /* Add a smooth transition effect */
+    }
+    .image-button-tutorial {
+      background-color:#fff;
+    }
+    .image-button-tutorial-hover{
+      cursor: pointer;
+    }
+    .image-button-noti img{
+      display: block;
+      margin: 0 auto;
+      width: 150px;
+      margin-left: 60px;
+      padding-top: 31px;
+    }
+    .image-button-noti {
+      display: block;
+      text-decoration: none; /* Remove underline for links */
+      background-color:linear-gradient(white,#D3D8E8); /* Background color of the button */
+      color: #fff; /* Text color */
+      padding: 10px 20px;
+      transition: background-color 0.3s ease; /* Add a smooth transition effect */
+      }
+      .image-button-noti {
+        background-color:#fff;
+      }
+      .image-button-noti-hover{
+        cursor: pointer;
+      }
+      .image-button-calendar img{
+        display: block;
+        margin: 0 auto;
+        width: 150px;
+        margin-left: 60px;
+        padding-top: 31px;
+      }
+      .image-button-calendar {
+        display: block;
+        text-decoration: none; /* Remove underline for links */
+        background-color:linear-gradient(white,#D3D8E8); /* Background color of the button */
+        color: #fff; /* Text color */
+        padding: 10px 20px;
+        transition: background-color 0.3s ease; /* Add a smooth transition effect */
+        }
+        .image-button-calendar {
+          background-color:#fff;
+        }
+        .image-button-calendar-hover{
+          cursor: pointer;
+        }
+
+        .image-button-cgpa img{
+          display: block;
+          margin: 0 auto;
+          width: 150px;
+          margin-left: 60px;
+          padding-top: 31px;
+        }
+        .image-button-cgpa {
+          display: block;
+          text-decoration: none; /* Remove underline for links */
+          background-color:linear-gradient(white,#D3D8E8); /* Background color of the button */
+          color: #fff; /* Text color */
+          padding: 10px 20px;
+          transition: background-color 0.3s ease; /* Add a smooth transition effect */
+          }
+          .image-button-cgpa {
+            background-color:#fff;
+          }
+          .image-button-cgpa-hover{
+            cursor: pointer;
+          }
+          .image-button-ktu img{
+            display: block;
+            margin: 0 auto;
+            width: 150px;
+            margin-left: 60px;
+            padding-top: 31px;
+          }
+          .image-button-ktu {
+            display: block;
+            text-decoration: none; /* Remove underline for links */
+            background-color:linear-gradient(white,#D3D8E8); /* Background color of the button */
+            color: #fff; /* Text color */
+            padding: 10px 20px;
+            transition: background-color 0.3s ease; /* Add a smooth transition effect */
+            }
+            .image-button-ktu{
+              background-color:#fff;
+            }
+            .image-button-ktu-hover{
+              cursor: pointer;
+            }
