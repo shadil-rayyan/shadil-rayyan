@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadil-rayyan" alt="shadilrayyan" /></a> </p>
 
-- 🔭 I’m currently working on [KtuGuidebot](https://github.com/shadil-rayyan/KtuGuidebot)
+- 🔭 I’m currently working on [KTUSTUDYGUIDE](https://github.com/shadil-rayyan/KtustudyGuide)
 
-- 🌱 I’m currently learning **React and Nodejs**
+- 🌱 I’m currently learning **AI/ML**
 
 - 💬 Ask me about **hacking**
 
