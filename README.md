@@ -84,4 +84,6 @@ Let’s collaborate and build something amazing together! 💻🚀
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FF6C37.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/shadil_am)  
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=Gmail&logoColor=white)](mailto:shadilrayyan2@gmail.com)  
 [![Outlook](https://img.shields.io/badge/Outlook-%23007AC4.svg?logo=Microsoft-Outlook&logoColor=white)](mailto:shadilrayyan2@outlook.com)
+[![Outlook](https://img.shields.io/badge/Outlook-%23007AC4.svg?logo=Microsoft-Outlook&logoColor=white)](mailto:shadilrayyan2@outlook.com)
+
 
