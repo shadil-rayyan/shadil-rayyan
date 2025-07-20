@@ -74,6 +74,8 @@
 </p>
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadil-rayyan" alt="shadil-rayyan" /></a> </p>
+
 
 <img src="https://raw.githubusercontent.com/shadil-rayyan/shadil-rayyan/output/snake.svg" alt="Snake animation" />
 
@@ -81,9 +83,12 @@
 
 
   ## 💰You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shadilrayyan) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shadilrayyan) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/shadilrayyan) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/shadilrayyan) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shadilrayyan)
+ [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ShadilAM) 
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/shadilrayyan) 
 
 <!--
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/shadilrayyan) 
 
 👋 Hello! I'm **Shadil AM**, the founder of **@CodeCompass** and a passionate software engineer who loves to build, automate, and optimize everything. I’m deeply interested in **DevOps**, **Cloud Computing**, **Product Management**, and the entire journey from **design** to **development**.
 
