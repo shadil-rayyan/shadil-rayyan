@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/shadilrayyan" target="_blank">
+  <a href="https://instagram.com/shadil_rayyan_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/shadil-am" target="_blank">
+  <a href="https://linkedin.com/in/shadilam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://stackoverflow.com/users/shadil-a-m" target="_blank">
+  <a href="https://stackoverflow.com/users/22993924/shadil-a-m" target="_blank">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="StackOverflow" />
   </a>
   <a href="https://leetcode.com/shadil_am" target="_blank">
