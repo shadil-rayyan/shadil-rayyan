@@ -76,7 +76,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadil-rayyan" alt="shadil-rayyan" /></a> </p>
 
 
-<!-- <img src="https://raw.githubusercontent.com/shadil-rayyan/shadil-rayyan/output/snake.svg" alt="Snake animation" /> -->
 
 
 
