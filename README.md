@@ -15,9 +15,6 @@
   <a href="https://x.com/shadilrayyan" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?logo=twitter-x&logoColor=white" alt="X" />
   </a>
-  <a href="https://stackoverflow.com/users/22993924/shadil-a-m" target="_blank">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="StackOverflow" />
-  </a>
   <a href="https://leetcode.com/shadil_am" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FF6C37.svg?logo=LeetCode&logoColor=white" alt="LeetCode" />
   </a>
